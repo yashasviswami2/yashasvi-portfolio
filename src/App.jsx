@@ -295,7 +295,7 @@ function App() {
     <p className="hero-description">
       I build practical applications using
       Artificial Intelligence, Machine Learning
-      and Generative AI — turning ideas into
+      and Generative AI : turning ideas into
       useful, intelligent solutions.
     </p>
 
