@@ -327,7 +327,7 @@ function App() {
       <div className="hero-stat">
 
         <strong>
-          4+
+          5+
         </strong>
 
         <span>
@@ -1348,7 +1348,72 @@ function App() {
       </div>
 
     </div>
+{/* GOOGLE GEMINI CAMPUS AMBASSADOR */}
 
+<div className="achievement-card featured-achievement">
+
+  <div className="achievement-icon">
+    ✨
+  </div>
+
+  <div className="achievement-content">
+
+    <div className="achievement-top">
+      <span className="achievement-category">
+        CAMPUS LEADERSHIP
+      </span>
+
+      <span className="achievement-year">
+        2026 – PRESENT
+      </span>
+    </div>
+
+    <h3>Google Gemini Campus Ambassador</h3>
+
+    <p>
+      Selected as a Google Gemini Campus Ambassador
+      to represent Gemini on campus, promote awareness
+      of Generative AI and encourage students to explore
+      AI-powered technologies.
+    </p>
+
+  </div>
+
+</div>
+
+
+{/* AIR INDIA CAMPUS AMBASSADOR */}
+
+<div className="achievement-card">
+
+  <div className="achievement-icon">
+    ✈️
+  </div>
+
+  <div className="achievement-content">
+
+    <div className="achievement-top">
+      <span className="achievement-category">
+        CAMPUS LEADERSHIP
+      </span>
+
+      <span className="achievement-year">
+        APR 2026 – PRESENT
+      </span>
+    </div>
+
+    <h3>Air India Campus Ambassador</h3>
+
+    <p>
+      Representing Air India as a student campus
+      ambassador, supporting brand awareness and
+      promoting student engagement through campus
+      initiatives.
+    </p>
+
+  </div>
+
+</div>
   </div>
 
 </section>
