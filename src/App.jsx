@@ -327,7 +327,7 @@ function App() {
       <div className="hero-stat">
 
         <strong>
-          3+
+          4+
         </strong>
 
         <span>
@@ -986,7 +986,82 @@ function App() {
       </div>
 
     </div>
+    {/* =========================
+        PROJECT 4 — AI SMART ATTENDANCE
+    ========================= */}
 
+    <div className="project-card featured-project">
+
+      <div className="project-image">
+        <span>🤖</span>
+
+        <div className="project-label">
+          AI / COMPUTER VISION
+        </div>
+      </div>
+
+      <div className="project-content">
+
+        <div className="project-title-row">
+
+          <h3>
+            AI Smart Attendance System
+          </h3>
+
+          <span className="project-year">
+            2026
+          </span>
+
+        </div>
+
+        <p>
+          An AI-powered attendance management system
+          combining facial recognition and hand gesture
+          verification to automate classroom attendance.
+          Features session management, student enrollment
+          and an interactive analytics dashboard.
+        </p>
+
+        <div className="tech-stack">
+
+          <span>Python</span>
+          <span>OpenCV</span>
+          <span>MediaPipe</span>
+          <span>Streamlit</span>
+          <span>SQLite</span>
+          <span>Pandas</span>
+          <span>Plotly</span>
+
+        </div>
+
+        <div className="project-buttons">
+
+          <a
+            href="https://github.com/yashasviswami2/AI-Smart-Attendance-System"
+            target="_blank"
+            rel="noreferrer"
+            className="project-btn github-btn"
+          >
+            <span>↗</span>
+            GitHub
+          </a>
+
+          <a
+  href="https://github.com/yashasviswami2/Stock-Market-Simulator"
+  target="_blank"
+  rel="noreferrer"
+  className="project-btn github-btn"
+>
+  <span>↗</span>
+  GitHub
+</a>
+
+        </div>
+
+      </div>
+
+    </div>
+    
   </div>
 
 </section>
