@@ -1047,21 +1047,84 @@ function App() {
           </a>
 
           <a
-  href="https://github.com/yashasviswami2/Stock-Market-Simulator"
+  href="https://github.com/yashasviswami2/AI-Smart-Attendance-System"
   target="_blank"
   rel="noreferrer"
-  className="project-btn github-btn"
+  className="project-btn view-btn"
 >
-  <span>↗</span>
-  GitHub
+  View Project
 </a>
+        </div>
+      </div>
+    </div>
+
+    {/* PROJECT 5 — KABADISETU */}
+
+    <div className="project-card featured-project">
+
+      <div className="project-image">
+        <span>♻️</span>
+
+        <div className="project-label">
+          SIH HACKATHON PROJECT
+        </div>
+      </div>
+
+      <div className="project-content">
+
+        <div className="project-title-row">
+
+          <h3>
+            KabadiSetu
+          </h3>
+
+          <span className="project-year">
+            2026
+          </span>
+
+        </div>
+
+        <p>
+          A technology-driven waste management
+          platform designed to promote efficient
+          waste collection and recycling.
+          The project qualified for the Smart India
+          Hackathon (SIH) Internal Hackathon.
+        </p>
+
+        <div className="tech-stack">
+          <span>Waste Management</span>
+          <span>Recycling</span>
+          <span>Web Development</span>
+        </div>
+
+        <div className="project-buttons">
+
+          <a
+            href="https://github.com/yashasviswami2/KabadiSetu"
+            target="_blank"
+            rel="noreferrer"
+            className="project-btn github-btn"
+          >
+            <span>↗</span>
+            GitHub
+          </a>
+
+          <a
+            href="https://github.com/yashasviswami2/KabadiSetu"
+            target="_blank"
+            rel="noreferrer"
+            className="project-btn view-btn"
+          >
+            View Project
+          </a>
 
         </div>
 
       </div>
 
     </div>
-    
+
   </div>
 
 </section>
