@@ -231,6 +231,10 @@ function App() {
         About
       </a>
 
+      <a href="#experience">
+  Experience
+</a>
+
       <a href="#skills">
         Skills
       </a>
@@ -506,6 +510,145 @@ function App() {
         </div>
 
       </section>
+{/* =========================
+    EXPERIENCE
+========================= */}
+
+<section
+  id="experience"
+  className="achievements"
+>
+
+  <div className="section-heading">
+
+    <h2>
+      Professional Experience
+    </h2>
+
+    <p>
+      Leadership, industry exposure and experiences
+      shaping my professional journey.
+    </p>
+
+  </div>
+
+  <div className="achievements-grid">
+
+    {/* GOOGLE GEMINI */}
+
+    <div className="achievement-card featured-achievement">
+
+      <div className="achievement-icon">
+        ✨
+      </div>
+
+      <div className="achievement-content">
+
+        <div className="achievement-top">
+
+          <span className="achievement-category">
+            CAMPUS AMBASSADOR
+          </span>
+
+          <span className="achievement-year">
+            2026 – PRESENT
+          </span>
+
+        </div>
+
+        <h3>
+          Google Gemini Campus Ambassador
+        </h3>
+
+        <p>
+          Selected as a Google Gemini Campus Ambassador
+          to represent Gemini on campus, promote awareness
+          of Generative AI and encourage students to
+          explore AI-powered technologies.
+        </p>
+
+      </div>
+
+    </div>
+
+
+    {/* AIR INDIA */}
+
+    <div className="achievement-card">
+
+      <div className="achievement-icon">
+        ✈️
+      </div>
+
+      <div className="achievement-content">
+
+        <div className="achievement-top">
+
+          <span className="achievement-category">
+            CAMPUS AMBASSADOR
+          </span>
+
+          <span className="achievement-year">
+            APR 2026 – PRESENT
+          </span>
+
+        </div>
+
+        <h3>
+          Air India Student Campus Ambassador
+        </h3>
+
+        <p>
+          Representing Air India as a student campus
+          ambassador, supporting brand awareness and
+          student engagement through campus initiatives.
+        </p>
+
+      </div>
+
+    </div>
+
+
+    {/* EGLO INDIA */}
+
+    <div className="achievement-card">
+
+      <div className="achievement-icon">
+        💻
+      </div>
+
+      <div className="achievement-content">
+
+        <div className="achievement-top">
+
+          <span className="achievement-category">
+            INTERNSHIP
+          </span>
+
+          <span className="achievement-year">
+            MAY – JUL 2026
+          </span>
+
+        </div>
+
+        <h3>
+          AI Intern — Eglo India Pvt. Ltd.
+        </h3>
+
+        <p>
+          Gained practical industry exposure through
+          an AI internship, working on learning and
+          applying concepts related to Artificial
+          Intelligence and software development.
+        </p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
 
       {/* =========================
           SKILLS
